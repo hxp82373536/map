@@ -1,0 +1,24 @@
+.header-css {
+    background: #454d58;
+    color: #FFFFFF;
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+
+.nav-top{
+    font-size: 18px;
+    overflow: auto;
+    width: 930px;
+}
+
+.nav-top li {
+    float: left;
+    width: 130px;
+    text-align:center;
+    list-style-type:none;
+}
+
+.nav-top a {
+    color:#FFFFFF;
+}
